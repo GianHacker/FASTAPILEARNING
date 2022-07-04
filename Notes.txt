@@ -1,0 +1,3 @@
+Install Python (Version 3)
+Install & Configure IDE (VS Code)
+Setup Virtual Environment
